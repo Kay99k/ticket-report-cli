@@ -1,0 +1,26 @@
+id,category,priority,status,created,resolved
+T-1001,Accounts,high,resolved,2026-10-19,2026-10-20
+T-1002,Hardware,low,resolved,2026-10-19,2026-10-22
+T-1003,Email / Outlook,medium,resolved,2026-10-20,2026-10-21
+T-1004,Software,medium,resolved,2026-10-21,2026-10-23
+T-1005,Hardware,high,resolved,2026-10-22,2026-10-23
+T-1006,Network,medium,resolved,2026-10-22,2026-10-27
+T-1007,Accounts,low,closed,2026-10-23,2026-10-26
+T-1008,Software,low,open,2026-10-24,
+T-1009,Hardware,medium,resolved,2026-10-26,2026-10-26
+T-1010,Accounts,high,resolved,2026-10-26,2026-10-27
+T-1011,Email / Outlook,low,resolved,2026-10-26,2026-10-28
+T-1012,Network,high,in progress,2026-10-27,
+T-1013,Hardware,medium,resolved,2026-10-27,2026-10-29
+T-1014,Software,medium,resolved,2026-10-27,2026-10-30
+T-1015,Accounts,low,resolved,2026-10-28,2026-10-28
+T-1016,Hardware,high,resolved,2026-10-28,2026-10-30
+T-1017,Email / Outlook,medium,open,2026-10-29,
+T-1018,Software,low,resolved,2026-10-29,2026-10-30
+T-1019,Network,medium,resolved,2026-10-29,2026-10-31
+T-1020,Accounts,medium,in progress,2026-10-30,
+T-1021,Hardware,low,open,2026-10-30,
+T-1022,Software,high,resolved,2026-10-30,2026-10-31
+T-1023,Hardware,medium,resolved,10/28/2026,10/29/2026
+T-1024,Accounts,medium,archived,2026-10-29,
+T-1025,Software,low,resolved,not-a-date,2026-10-30
